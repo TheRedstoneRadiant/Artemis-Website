@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/ArtemisSniper/Website/blob/master/LICENSE/">
-    <img src="https://img.shields.io/badge/license-MIT-blue">
+    <img src="https://img.shields.io/badge/license-MIT-blue?logo=gitbook&logoColor=blue">
   </a>
-  <a href="https://github.com/ArtemisSniper/Website/deployments/activity_log?environment=Production">
-      <img src="https://img.shields.io/github/deployments/ArtemisSniper/Website/production?label=deployment">
+  <a href="https://github.com/ArtemisSniper/Website/actions">
+      <img src="https://img.shields.io/github/workflow/status/ArtemisSniper/Website/hello%20suslesticredstoneradiant?logo=azure%20pipelines&logoColor=brightgreen">
   </a>
   <a>
 </p>
