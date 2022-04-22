@@ -20,5 +20,5 @@
 
 ### What's this?
 
-This is the [Website](https://art2.cf) for the [Artemis Sniper](https://github.com/Everest187/Artemis-Sniper).
+This is the [Website](https://art2.cf) for [Artemis Sniper](https://github.com/Everest187/Artemis-Sniper).
 
