@@ -142,7 +142,7 @@ body {
 }
 
 .card:hover {
-	background-color: rgba(32, 36, 40, 1);
+	background-color: rgb(32, 36, 40);
 }
 
 .card > div {
