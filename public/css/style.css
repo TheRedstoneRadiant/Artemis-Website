@@ -102,6 +102,7 @@ body {
 	text-align: center;
 	transition: 1s all;
 	font-weight: 400;
+	padding: 20px;
 }
 
 .sylestic:hover,
